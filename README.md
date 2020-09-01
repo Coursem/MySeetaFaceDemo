@@ -1,0 +1,2 @@
+# MySeetaFaceDemo
+基于中科院SeetaFace实现人脸识别
